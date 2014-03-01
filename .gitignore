@@ -4,4 +4,4 @@ UnityTest/Assembly-CSharp.csproj
 *.dll
 UnityTest/Assembly-CSharp-vs.csproj
 UnityTest/Assembly-CSharp.csproj
-UnityTest/Library/*
+UnityTest/Library/
