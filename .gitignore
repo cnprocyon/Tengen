@@ -1,0 +1,7 @@
+UnityTest/Assembly-CSharp.csproj
+UnityTest/Assembly-CSharp.csproj
+*.csproj
+*.dll
+UnityTest/Assembly-CSharp-vs.csproj
+UnityTest/Assembly-CSharp.csproj
+UnityTest/Library/*
